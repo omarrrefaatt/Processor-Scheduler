@@ -1,0 +1,4 @@
+C:\Users\zizor\OneDrive\Desktop\DataPhase2-iotesting 2\DataPhase2-iotesting 2\x64\Debug\DataSimulator.exe
+C:\Users\Lenovo\Desktop\DataPhase2-iotesting 2 (2) ziadworking\DataPhase2-iotesting 2\DataPhase2-iotesting 2\x64\Debug\DataSimulator.exe
+C:\Users\Lenovo\Desktop\DataPhase2-final\DataPhase2-iotesting 2 (2) ziadworking\DataPhase2-iotesting 2\DataPhase2-iotesting 2\x64\Debug\DataSimulator.exe
+C:\Users\Lenovo\Desktop\DataPhase2-final test\DataPhase2-final\DataPhase2-iotesting 2 (2) ziadworking\DataPhase2-iotesting 2\DataPhase2-iotesting 2\x64\Debug\DataSimulator.exe
